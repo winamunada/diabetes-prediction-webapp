@@ -20,7 +20,7 @@ def main():
 
     @st.cache_data(persist=True)
     def load_data():
-        data = pd.read_csv("/content/diabetes.csv")
+        data = pd.read_csv("diabetes.csv")
         st.write("Columns in the dataset:", data.columns)
         return data
 
