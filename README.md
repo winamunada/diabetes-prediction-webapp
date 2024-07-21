@@ -16,11 +16,13 @@ Follow these steps to set up and run the application in the google colab:
     Go to Google Colab and create a new notebook.
 
 2. **Install Streamlit and Other Dependencies:**
-    ```!pip install streamlit
+    ```
+    !pip install streamlit
     ```
 
 3. **Create and Write the Streamlit Application:**
-    ```%%writefile app.py
+    ```
+    %%writefile app.py
     #following by code in app.py
     ```
 
