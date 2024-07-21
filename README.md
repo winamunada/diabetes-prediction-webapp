@@ -37,8 +37,8 @@ Follow these steps to set up and run the application in the google colab:
 ## Usage
 
 1. **Upload Dataset:**
-    - Upload a CSV file containing your diabetes data. The dataset should include the relevant medical features and an `Outcome` column for the labels.
-
+    - Click on "Browse" and upload the diabetes.csv file on google colab.
+      
 2. **Choose Classifier:**
     - Select one of the classifiers from the sidebar (e.g., SVM, Logistic Regression, Random Forest, etc.).
 
