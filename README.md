@@ -2,6 +2,11 @@
 
 This web application allows users to choose different machine learning models to predict diabetes and adjust parameters to achieve the best accuracy. Built using Streamlit, the app includes several popular classifiers such as SVM, Logistic Regression, Random Forest, K-Nearest Neighbors, Decision Tree, XGBoost, and LightGBM.
 
+## Live Demo
+
+You can access the live demo of the app at: [Diabetes Classification Web App
+](https://diabetes-classifiers-webapp.streamlit.app/)
+
 ## Features
 
 - Train and test different classifiers
